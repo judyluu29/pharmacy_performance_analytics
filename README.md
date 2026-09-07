@@ -141,7 +141,7 @@ Provides management with a high-level view of:
 
 ---
 
-### 2️⃣ Sales & Growth Drivers
+### 2️⃣ Sales & Growth Drivers 
 
 ![Sales & Growth Drivers](images/sales_growth_drivers.png)
 
