@@ -142,7 +142,6 @@ Provides management with a high-level view of:
 ---
 
 ### 2️⃣ Sales & Growth Drivers 
-
 ![Sales & Growth Drivers](images/sales_growth_drivers.png)
 
 Investigates the factors behind the change in revenue, including medicine pricing, product categories, customer characteristics and discounts.
