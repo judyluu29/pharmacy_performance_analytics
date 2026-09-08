@@ -537,26 +537,3 @@ The resulting framework combines:
 
 to provide a more structured basis for medicine-level stock review.
 
----
-
-## Analytical Limitation
-
-The dataset contains historical sales transactions rather than current inventory and procurement records.
-
-Therefore:
-
-- **Keep More / Maintain / Keep Less** represent decision-support classifications, not exact reorder instructions.
-- Historical shelf-life exposure does not represent current products approaching expiry.
-- Exact reorder quantities cannot be calculated without stock-on-hand, safety stock and supplier lead-time data.
-- Supplier sales contribution cannot measure supplier reliability or procurement performance.
-
-### Recommended Next Development
-
-Integrating **current inventory, purchasing cost, reorder levels, supplier lead times and safety stock** would allow the solution to progress from historical decision support toward:
-
-- reorder-point calculation;
-- inventory turnover analysis;
-- expiry-risk alerts;
-- demand forecasting;
-- supplier performance monitoring; and
-- automated replenishment recommendations.
